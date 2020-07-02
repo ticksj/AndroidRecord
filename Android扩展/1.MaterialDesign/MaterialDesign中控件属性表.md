@@ -19,6 +19,7 @@
 | android.support.design:tabPaddingEnd        | —    | 设置tab的右侧内边距。                                        |
 | android.support.design:tabSelectedTextColor | —    | 设置tab被选中时的文字颜色。                                  |
 | android.support.design:tabTextColor         | —    | 设置tab默认的文字颜色。                                      |
+| app:tabTextAppearance                       | —    | 设置tab默认的文字大小<br />"@style/TabLayoutTextStyle"<br /><style name="TabLayoutTextStyle">    <item name="android:textSize">18sp</item></style> |
 
 ## FloatingActionButton
 
